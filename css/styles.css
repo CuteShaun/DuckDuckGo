@@ -254,7 +254,7 @@ a {
       vertical-align: top;
       height: 64px;
       width: 64px;
-      background-image: url(img/sprite.png); }
+      background-image: url(../img/sprite.png); }
       .header .navigation .vidgets__img--1 {
         background-position-y: 1102px; }
       .header .navigation .vidgets__img--2 {
@@ -368,7 +368,7 @@ a {
   margin-bottom: 0.8em;
   margin-top: -1.25em; }
   .logo__img {
-    background-image: url(img/logo.svg);
+    background-image: url(../img/logo.svg);
     -webkit-background-size: 250px 200px;
             background-size: 250px 200px;
     width: 250px;
