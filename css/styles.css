@@ -231,7 +231,7 @@ a {
   position: absolute;
   right: 0;
   top: 44px;
-  width: 322px;
+  width: 320px;
   max-height: 876px;
   height: 500px;
   background-color: black;
@@ -242,7 +242,7 @@ a {
   overflow: overlay; }
   .vidgets__inner {
     margin: 0;
-    padding: 28px 26px; }
+    padding: 28px 25px; }
   .vidgets__inner--2 {
     display: none; }
   .vidgets__list-item {
